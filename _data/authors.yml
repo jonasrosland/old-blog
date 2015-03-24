@@ -1,0 +1,11 @@
+# Authors
+
+guest_author:
+  name: First Last
+  web: http://example.com
+  email: first@last.com
+  bio: "Really interesting person, I promise."
+  avatar: bio-photo-2.jpg
+  twitter: guest_author
+  google:
+    plus: guestauthor
