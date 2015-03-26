@@ -10,7 +10,7 @@ image:
 ---
 
 Developer Advocate at [EMC {code}](http://emccode.github.io), loves tech, food, wine, craft beers and geeky things.
-Used to blog over at [pureVirtual.eu](pureVirtual.eu), moved here in March 2015.
+Used to blog over at [pureVirtual.eu](http://pureVirtual.eu), moved here in March 2015.
 
 ## Please give me a shout out on social media if:
 
