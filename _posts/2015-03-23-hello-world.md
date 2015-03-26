@@ -14,7 +14,7 @@ date: 2015-03-23T16:47:56-04:00
 ---
 
 It's time to shake things up a bit. I've been blogging over at [pureVirtual.eu](http://purevirtual.eu) for 4.5 years (wow, it's been that long already?), and thought it was time for a refreshing change of scenery.
-The old blog will still live on for an indefinite amount of time or until I get bored of paying maintenance, and keep serving popular articles on VMware, EMC, Open Source, APIs and other stuff.
+The old blog will still live on and keep serving popular articles on VMware, EMC, Open Source, APIs and other stuff for an indefinite amount of time or until I get bored of paying maintenance.
 
 ## Why move?
 
