@@ -10,7 +10,7 @@ image:
   feature: coreos-wordmark-horiz-color-wide.png
   credit: CoreOS
   creditlink: http://coreos.com
-date: 2015-03-25T14:07:24-04:00
+date: 2015-03-30T10:07:24-04:00
 ---
 
 This is an ongoing comparison series between different publicly available operating systems focused on running some form of containers, trying to be as objective as possible but I'll add my own commentary of course. I am not covering the different container technologies such as Docker, Rocket, LXC or others. There are no winners or losers, I leave it up as an exercise to the reader to decide if any of the compared OSes would be useful for them. Got an OS that's not covered? Leave a comment!
