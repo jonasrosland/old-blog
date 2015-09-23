@@ -15,8 +15,6 @@ date: 2015-09-23
 
 This post was previously published on [Codeship's blog](https://blog.codeship.com/container-os-comparison/), reposted here.
 
-# Container OS comparison
-
 For anyone who’s been following the container community’s rise the past two years (after [Solomon Hykes](https://twitter.com/solomonstre)’s famous five-minute [presentation at PyCon](https://www.youtube.com/watch?v=wW9CAH9nSLs)), you have surely seen many companies and projects spring up, offering really innovative ways of managing your applications.
 
 There are several projects around management, network, storage, logging, monitoring, and more (check out this awesome [mind map of the ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)). However, I think the most prevalent projects are the ones that make up the base infrastructure of what has or will become your new application environment: the container OSes.
