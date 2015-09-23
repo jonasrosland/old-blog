@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who Am I
-tags: [about, Jonas Rosland, virtualswede]
+tags: [about, Jonas Rosland, jonasrosland]
 comments: false
 image:
   feature: pixel-art-banner.png
