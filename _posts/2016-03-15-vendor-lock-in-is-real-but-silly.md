@@ -31,4 +31,6 @@ The example above of course is silly, but it's to show a point. You're not locke
 
 Making a choice is part of our daily lives. This applies when it comes to buying any type of product (cars, clothes, houses, IT equipment), and you might actually be better off when choosing different things for different purposes. Better prices, better functionality for your current use cases, better integrations with existing tech be it Internet connectivity, home automation, datacenter infrastructure, application development and deployment, or something else where you have identified a need. You should always get what's best for you in that situation.
 
-I don’t believe in lock-in. I believe in making choices.
+**I don’t believe in lock-in. I believe in making choices.**
+
+For more reading, I recommend Tyler Britten's post on [measuring friction](http://vmtyler.com/lock-in-real-or-imaginary/).
