@@ -15,6 +15,8 @@ date: 2016-03-15
 
 This might come off as a bit of a rant, but the notion of so called vendor lock-in is something I hear constantly in the IT industry and I'm getting tired of it.
 
+TL;DR: Lock-in is just a choice of current state.
+
 **Why is it silly?**
 
 The concept of vendor lock-in is that if you buy a product you're locked into that product's features and functions, and therefore you might be missing out on other interesting things.
