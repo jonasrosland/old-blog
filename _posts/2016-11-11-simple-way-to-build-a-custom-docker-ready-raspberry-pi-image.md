@@ -44,7 +44,9 @@ vagrant box add ARTACK/debian-jessie https://atlas.hashicorp.com/ARTACK/boxes/de
 vagrant init ARTACK/debian-jessie
 ```
 ---
+
 **Optional:** Edit the `Vagrantfile` that got put in your directory and increase the RAM to make everything a little more snappy:
+
 ```
 config.vm.provider "virtualbox" do |vb|
 #   # Display the VirtualBox GUI when booting the machine
@@ -54,6 +56,7 @@ config.vm.provider "virtualbox" do |vb|
   vb.memory = "2048"
 end
 ```
+
 ---
 
 Alright, time to start the VM, just run `vagrant up` and you should see it boot up.
