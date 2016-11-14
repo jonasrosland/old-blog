@@ -34,7 +34,7 @@ Maybe you want to slim down the standard Raspbian distro to the bare minimums ne
 I've created a [fork](https://github.com/jonasrosland/pi-gen) of the [official pi-gen](https://github.com/RPi-Distro/pi-gen) repo,
 which we'll use to create our images.
 
-To build the images we'll use a Linux machine, you're choice of physical or VM.
+To build the images we'll use a Linux machine, your choice of physical or VM.
 There's an excellent [Vagrant](http://vagrantup.com) box that I recommend using together with [VirtualBox](http://virtualbox.org) to make this as simple as possible.
 
 Run the following to get it up and running:
