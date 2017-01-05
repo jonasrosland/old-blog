@@ -7,7 +7,7 @@ excerpt: "This time let's make it stick"
 tags: [first post, new blog, purevirtual.eu, jonasrosland.com]
 comments: true
 image:
-  feature: kss-in-space.png
+  feature: kss-in-space.jpg
   credit: Jonas Rosland - Screenshot from KSP
   creditlink: http://kerbalspaceprogram.com
 date: 2015-03-23T16:47:56-04:00
