@@ -7,7 +7,7 @@ excerpt: "Just a startup? No more."
 tags: [docker, birthday]
 comments: true
 image:
-  feature: docker-birthday-cake.jpg
+  feature: docker-boston-birthday-cake.jpg
   credit: Jonas Rosland
 date: 2017-03-21
 ---
