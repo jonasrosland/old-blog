@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I built an Alternate Reality Game - Part 1 - The Why"
+title: "How I built an Alternate Reality Game - Part 1: The Why"
 modified:
 categories:
 excerpt: "It was a dark and stormy night"
