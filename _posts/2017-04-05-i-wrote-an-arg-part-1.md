@@ -23,6 +23,6 @@ So with that in mind I spent some of my spare time creating a little game, sort 
 In the next few blog posts I'll share how the ARG was built (without spoilers), with the final blog post explaining the puzzles and open sourcing the code for the whole game.
  A big shoutout to our [{code} Catalysts](https://twitter.com/codeDellEMC/lists/code-catalysts) who beta-tested this a while ago, you rock.
 
-Start your journey by going here: http://arg.jonasrosland.com
+Start your journey by going here: [arg.jonasrosland.com](http://arg.jonasrosland.com).
 
-PSA: To all of you who have played ARGs before, you might think this one is a little too easy.  It was created as a learning experience for me and sort of introduction to ARGs in general, so that was the whole point :)
+_PSA: To all of you who have played ARGs before, you might think this one is a little too easy.  It was created as a learning experience for me and sort of introduction to ARGs in general, so that was the whole point :)_
