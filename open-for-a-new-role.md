@@ -13,7 +13,7 @@ permalink: /open-for-a-new-role.html
 
 ### Work and leadership experience
 
-#### Open Source Community Manager, {code}, Dell Technologies, Boston, USA
+#### Open Source Community Manager, {code}, Dell Technologies, Boston, USA - 2016-2018
 Main responsibilities included planning and launching of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs. Always with a community-first mindset, defending the community from internal forces.
 
 {code} was a strategic open source initiative supported by executive management driven by three main principles of a community first mindset:
@@ -47,7 +47,7 @@ The {code} Team contributed to and created open source projects, acted in the in
    - SXSW
    - Dell EMC World/Dell Technologies World
 
-#### Developer Advocate, Dell EMC, Boston, USA
+#### Developer Advocate, Dell EMC, Boston, USA - 2014-2016
  - A co-founding member of the {code} Team, the open source initiative at EMC/Dell EMC/Dell Technologies
  - Led the development and publishing of over a dozen technical training videos leading to 100,000+ views on YouTube, with topics around container technologies, APIs, and modern development strategies
  - Developed dashboards for aggregating metrics on the team's social media success
@@ -62,11 +62,11 @@ The {code} Team contributed to and created open source projects, acted in the in
    - Dell EMC World
    - EMC Forum
 
-#### Researcher at the Office of the CTO, Dell EMC (formerly EMC Corporation), Boston, USA - 2014-2015
+#### Researcher at the Office of the CTO, Dell EMC (formerly EMC Corporation), Boston, USA - 2013-2014
 
 Focused on developing and open sourcing tools for automated large scale datacenter deployments. Part of driving open source contributions from EMC.
 
-#### Senior solutions engineer, Dell EMC (formerly EMC Corporation), Stockholm, Sweden - 2010-2014
+#### Senior solutions engineer, Dell EMC (formerly EMC Corporation), Stockholm, Sweden - 2010-2013
 
 Part of the presales team known as vSpecialists, made sure EMC wins wherever there was a VMware deal on the table. Enablement of EMC employees and partners were a major priority. From 2012 a part of the Software-Defined Specialists, focused on cloud management and new application development methods.
 
