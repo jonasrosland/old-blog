@@ -14,7 +14,7 @@ permalink: /open-for-a-new-role.html
 ### Work and leadership experience
 
 #### Open Source Community Manager, {code}, Dell Technologies, Boston, USA
-Main responsibilities included planning and launching of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs.
+Main responsibilities included planning and launching of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs. Always with a community-first mindset, defending the community from internal forces.
 
 {code} was a strategic open source initiative supported by executive management driven by three main principles of a community first mindset:
 
