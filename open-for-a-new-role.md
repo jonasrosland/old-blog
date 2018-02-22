@@ -14,13 +14,15 @@ permalink: /open-for-a-new-role.html
 ### Work and leadership experience
 
 #### Open Source Community Manager, {code}, Dell Technologies, Boston, USA
-On August 29, 2014 {code} launched as a strategic initiative with support from executive management. Three main principles drive {code}'s approach to open source:
+Main responsibilities included planning and execution of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs.
+
+{code} was a strategic open source initiative supported by executive management driven by three main principles of a community first mindset:
 
 - Open source efforts are developed in the best interests of the community
 - Projects are executed with complete transparency and openness
 - Open source technologies are made to be consumable by the widest range of users and organizations
 
-The {code} Team contributed to and created open source projects, acted in the interest of building a community, and drove awareness of emerging technology trends. It consisted of three programs, each operating with these core tenets in mind: the {code} Community, the DevHigh5 program, and the {code} Catalyst program.
+The {code} Team contributed to and created open source projects, acted in the interest of building a community, and drove awareness of emerging technology trends. It consisted of three community-focused programs: the {code} Community, the DevHigh5 program, and the {code} Catalyst program.
 
  - Planned and executed an open source community strategy for Dell Technologies, called the **{code} Community**
  - Maintained healthy growth and engagement within the **{code} Community** Slack team, reaching over 5,600 members in Feb 2018
