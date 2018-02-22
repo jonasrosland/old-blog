@@ -6,6 +6,9 @@ sitemap: false
 permalink: /open-for-a-new-role.html
 ---  
 
+![Jonas Rosland]({{ site.url }}/images/jonasrosland.jpg)
+
+
 #### Contact methods in order of preference:
  - [jonas.rosland@gmail.com](mailto:jonas.rosland@gmail.com)
  - [@jonasrosland](https://twitter.com/jonasrosland)

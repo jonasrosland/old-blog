@@ -34,7 +34,7 @@ owner:
   twitter: jonasrosland
   facebook: #username
   google:
-    plus: jonasrosland
+    plus: #jonasrosland
     analytics: UA-61124301-1
     verify:
     ad-client:
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: jonasrosland
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jonasrosland
   xing: #username
   instagram: #username
   lastfm: #username
