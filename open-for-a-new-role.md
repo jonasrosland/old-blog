@@ -24,13 +24,13 @@ Main responsibilities included planning and execution of the open source-focused
 
 The {code} Team contributed to and created open source projects, acted in the interest of building a community, and drove awareness of emerging technology trends. It consisted of three programs, each operating with these core tenets in mind: the **{code} Community**, the **DevHigh5 program**, and the **{code} Catalyst program**.
 
- - Planned and executed an open source community strategy for Dell Technologies, called the **{code} Community**
+ - Planned and launched an open source community strategy for Dell Technologies, called the **{code} Community**
  - Maintained healthy growth and engagement within the **{code} Community** Slack team, reaching over 5,600 members in Feb 2018
- - Planned and executed several community outreach programs, such as the **{code} Catalyst program, the DevHigh5 program, {code} Catalyst Spotlights, {code} Webinars and {code} Assemblies**
- - Planned and executed the **{code} Catalyst program**, an innovative program with the brightest minds in the open source community
- - Planned and executed the **DevHigh5 program**, **shepherding 65+ open source projects** through processes surrounding legal, documentation, and community support
- - Planned and executed a social media campaign called **{code} Catalyst Spotlights**, interviewing {code} Catalysts on video, organizing the editing, and publishing of videos to YouTube
- - Planned and executed a new webinar series, the **{code} Webinars**, where innovative open source-focused individuals presented information on their open source projects
+ - Planned and launched several community outreach programs, such as the **{code} Catalyst program, the DevHigh5 program, {code} Catalyst Spotlights, {code} Webinars and {code} Assemblies**
+ - Planned and launched the **{code} Catalyst program**, an innovative program with the brightest minds in the open source community
+ - Planned and launched the **DevHigh5 program**, **shepherding 65+ open source projects** through processes surrounding legal, documentation, and community support
+ - Planned and launched a social media campaign called **{code} Catalyst Spotlights**, interviewing {code} Catalysts on video, organizing the editing, and publishing of videos to YouTube
+ - Planned and launched a new webinar series, the **{code} Webinars**, where innovative open source-focused individuals presented information on their open source projects
  - Co-organized social events called **{code} Assemblies** tied to open source events worldwide, where open source-focused people could network and meet in real life
  - Wrote 2 published book chapters (see more info under "Publications")
    - Building community to stay on the cutting edge
