@@ -43,7 +43,7 @@ The {code} Team contributed to and created open source projects, acted in the in
    - Open Source Leadership Summit
    - Open Source Summit US and EU
    - AllThingsOpen
-   - KubeCon + CloudNativeCon
+   - KubeCon + CloudNativeCon US and soon EU
    - SXSW
    - Dell EMC World/Dell Technologies World
 
@@ -60,7 +60,7 @@ The {code} Team contributed to and created open source projects, acted in the in
    - ContainerDays
    - VMworld
    - Dell EMC World
-   - EMC Forum
+   - Dell EMC Forum
 
 #### Researcher at the Office of the CTO, Dell EMC (formerly EMC Corporation), Boston, USA - 2013-2014
 
