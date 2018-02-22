@@ -38,6 +38,7 @@ The {code} Team contributed to and created open source projects, acted in the in
    - Assuming positive intent when working across teams
      - How to work efficiently together across organizational boundaries
  - Supported event planning and social media engagement surrounding events across the globe
+ - Wrote numerous blog articles on community engagement and involvement ([my profile here](https://blog.thecodeteam.com/author/jonasrosland/))
  - Speaker at several events around the globe such as:
    - Open Source Leadership Summit
    - Open Source Summit US and EU
