@@ -16,7 +16,7 @@ permalink: /open-for-a-new-role.html
 #### Open Source Community Manager, {code}, Dell Technologies, Boston, USA - 2016-2018
 Main responsibilities included planning and launching of the open source-focused **{code} Community** and its associated **DevHigh5** and **{code} Catalyst** programs. Always with a community-first mindset, defending the community from internal forces.
 
-{code} was a strategic open source initiative supported by executive management driven by three main principles of a community first mindset:
+{code} was a strategic open source initiative supported by executive management driven by three main principles of a community-first mindset:
 
 - Open source efforts are developed in the best interests of the community
 - Projects are executed with complete transparency and openness
