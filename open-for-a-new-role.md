@@ -35,7 +35,7 @@ The {code} Team contributed to and created open source projects, acted in the in
    - **{code} Catalyst Spotlights**, a social media campaign where {code} Catalysts were interviewed on their open source involvement. Organized the editing, and publishing of videos to YouTube
    - **{code} Webinars**, a webinar series where innovative open source-focused individuals presented information on their open source projects
    - **{code} Assemblies**, social events tied to open source events worldwide where open source-focused people could network and meet in real life
- - Wrote 2 published book chapters (see more info under "Publications")
+ - Wrote **2 published book chapters** (see more info under "Publications")
    - Building community to stay on the cutting edge
      - The {code} Team, the {code} Community, and its impact on Dell Technologies
    - Assuming positive intent when working across teams
@@ -52,7 +52,7 @@ The {code} Team contributed to and created open source projects, acted in the in
 
 #### Developer Advocate, Dell EMC, Boston, USA - 2014-2016
  - A co-founding member of the {code} Team, the open source initiative at EMC/Dell EMC/Dell Technologies
- - Led the development and publishing of over a dozen technical training videos leading to 100,000+ views on YouTube, with topics around container technologies, APIs, and modern development strategies
+ - Led the development and publishing of over a dozen technical training videos leading to **100,000+ views on YouTube**, with topics around container technologies, APIs, and modern development strategies
  - Developed dashboards for aggregating metrics on the team's social media success
  - Developed and maintained automated setups to speed up the deployment of localized demos of container technology and storage for presales worldwide
  - Delivered live training sessions throughout the US to EMC and partner presales on container and automation technologies
