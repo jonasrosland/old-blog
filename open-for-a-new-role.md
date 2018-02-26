@@ -31,7 +31,7 @@ The {code} Team contributed to and created open source projects, acted in the in
  - Maintained healthy growth and engagement within the **{code} Community** Slack team, reaching over 5,600 members as of Feb 2018
  - Planned and launched several community outreach programs, such as the **{code} Catalyst program, the DevHigh5 program, {code} Catalyst Spotlights, {code} Webinars and {code} Assemblies**
    - **{code} Catalyst program**, an innovative program with the brightest minds in the open source community
-   - **DevHigh5 program**, **shepherding 65+ open source projects** through processes surrounding legal, documentation, and community support
+   - **DevHigh5 program**, **shepherding 100+ open source projects** through processes surrounding legal, documentation, and community support
    - **{code} Catalyst Spotlights**, a social media campaign where {code} Catalysts were interviewed on their open source involvement. Organized the editing, and publishing of videos to YouTube
    - **{code} Webinars**, a webinar series where innovative open source-focused individuals presented information on their open source projects
    - **{code} Assemblies**, social events tied to open source events worldwide where open source-focused people could network and meet in real life
